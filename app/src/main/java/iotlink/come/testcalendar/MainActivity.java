@@ -16,6 +16,10 @@ public class MainActivity extends AppCompatActivity {
         //change somethin3
         //t1
 
+<<<<<<< HEAD
         //br1
+=======
+        br2
+>>>>>>> br2
     }
 }
