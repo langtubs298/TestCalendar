@@ -27,7 +27,6 @@ public class MainActivity extends AppCompatActivity {
         //asdcc
         //f2
         //6
-        //9
         //d2
         //r1ok23
         //h13
