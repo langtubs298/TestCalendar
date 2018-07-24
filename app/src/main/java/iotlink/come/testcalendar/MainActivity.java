@@ -32,7 +32,6 @@ public class MainActivity extends AppCompatActivity {
         //d2
         //r1ok23
         //h13
-        //d1
         //f1
         //c1
     }
