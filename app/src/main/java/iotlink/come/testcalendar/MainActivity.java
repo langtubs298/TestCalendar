@@ -16,7 +16,6 @@ public class MainActivity extends AppCompatActivity {
         //change somethin3
         //121a
         //asdaaa
-        //f2
         //6
         //d2
         //r1ok23
