@@ -17,7 +17,6 @@ public class MainActivity extends AppCompatActivity {
         //121a
         //asdaaa
         //6
-        //d2
         //r1ok23
         //f1
         //c1
