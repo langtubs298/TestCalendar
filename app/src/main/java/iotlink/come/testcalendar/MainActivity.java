@@ -14,10 +14,8 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "t3", Toast.LENGTH_LONG).show();
         Toast.makeText(this, "t4", Toast.LENGTH_LONG).show();
         //change somethin3
-        //121a
         //asdaaa
         //6
-        //r1ok23
         //f1
         //c1
     }
